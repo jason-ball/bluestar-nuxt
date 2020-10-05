@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: jason-ball/bluestar-nuxt
   branch: netlify-cms
   
 media_folder: static/img
