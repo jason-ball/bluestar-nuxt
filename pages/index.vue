@@ -16,6 +16,7 @@
       </p>
     </div>
     <br />
+    <p>Demo Quiz:</p>
     <Quiz class="max-w-xl mx-auto" />
   </div>
 </template>
