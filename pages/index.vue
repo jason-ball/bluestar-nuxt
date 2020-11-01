@@ -15,12 +15,16 @@
         please email the Blue Star Coordinators.
       </p>
     </div>
+    <br />
+    <Quiz class="max-w-xl mx-auto" />
   </div>
 </template>
 
 <script>
+import Quiz from '../components/Quiz.vue'
 export default {
   name: 'Home',
   auth: false,
+  components: [Quiz],
 }
 </script>
